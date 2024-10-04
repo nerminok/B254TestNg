@@ -12,6 +12,8 @@ public class Runner {
         System.out.println("developer 1in commiti");
         //githubta commit
         System.out.println("techpro 4q");
+        //developer 2 buaraya kod yazdi
+
 
 
     }
